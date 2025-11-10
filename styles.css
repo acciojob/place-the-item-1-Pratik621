@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.body{
+	display:flex;
+	flex-direction:column;
+	
+}
+.first{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between
+	
+}
+.second{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap
+}
