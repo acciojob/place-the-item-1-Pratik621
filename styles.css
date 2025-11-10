@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
-.body{
+.holder{
 	display:flex;
 	flex-direction:row;
 	justify-content:space-betweenl;
+	
 	
 }
